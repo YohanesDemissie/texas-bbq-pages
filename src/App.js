@@ -1,14 +1,13 @@
 import React from 'react';
 import Home from './Components/Home';
-import { Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 function App() {
-  console.log('AM I RENDERED')
   return (
 
-      <div>
-        <Route exact path="/" component={Home} />
-      </div>
+    <Router history={history} basename={process.env.PUBLIC_URL}>
+        <Route to={Home} href="/" />
+      </Router>
 
   );
 }

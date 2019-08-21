@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Home () {
-  return <div>React Router Dom</div>
+  return <div>Local ENV thing</div>
 }
 
 export default Home;
