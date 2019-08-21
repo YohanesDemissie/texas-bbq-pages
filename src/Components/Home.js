@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Home () {
-  return <div>HOME COMPONENT</div>
+  return <div>React Router Dom</div>
 }
 
 export default Home;
