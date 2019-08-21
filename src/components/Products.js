@@ -29,7 +29,8 @@ class Products extends React.Component {
     return(
       <div>
         <Navbar />
-        <a name='seasonings'><div className="products-title">Seasonings</div></a>
+        <a name="seasonings">
+          <div className="products-title">Seasonings</div></a>
         <div className="products-container">
           <div>
             <img className="seasonings-image" src={BoldBeef} alt="Mr. Texas Glorious Garlic Pinto Beans" />
