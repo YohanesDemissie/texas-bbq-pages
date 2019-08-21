@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/texas-bbq-pages/static/media/savory-poultry.a321a379.png"
   },
   {
-    "revision": "b202457aff000b59db5f",
+    "revision": "16bba991dc057e02b3dc",
     "url": "/texas-bbq-pages/static/css/main.5cf72084.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/texas-bbq-pages/static/media/royal-pork.8803c6b4.png"
   },
   {
-    "revision": "b202457aff000b59db5f",
-    "url": "/texas-bbq-pages/static/js/main.e92ffb5e.chunk.js"
+    "revision": "16bba991dc057e02b3dc",
+    "url": "/texas-bbq-pages/static/js/main.7d19a0ee.chunk.js"
   },
   {
     "revision": "6bb3f31973896a238a0daec8d16886a6",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/texas-bbq-pages/static/media/bbq-shirt.18aa37eb.png"
   },
   {
-    "revision": "76c2165977484746a5512272a7efaac4",
+    "revision": "c02d416e39e225f60122621bdab2c183",
     "url": "/texas-bbq-pages/index.html"
   }
 ];
