@@ -4,9 +4,8 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 function App() {
   return (
-
     <Router history={history} basename={process.env.PUBLIC_URL}>
-        <Route to={Home} href="/" />
+        <Route exact path="/" component={Home} />
       </Router>
 
   );
