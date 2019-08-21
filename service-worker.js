@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/texas-bbq-pages/precache-manifest.e647058daccea5e873b01273aa8c3c40.js"
+  "/texas-bbq-pages/precache-manifest.6e3a62b9e51cde8530c3487f4c2ada85.js"
 );
 
 workbox.clientsClaim();
