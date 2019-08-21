@@ -1,11 +1,20 @@
 {
-  "main.js": "/texas-bbq-pages/static/js/main.931133c1.chunk.js",
-  "main.js.map": "/texas-bbq-pages/static/js/main.931133c1.chunk.js.map",
+  "main.css": "/texas-bbq-pages/static/css/main.5cf72084.chunk.css",
+  "main.js": "/texas-bbq-pages/static/js/main.e92ffb5e.chunk.js",
+  "main.js.map": "/texas-bbq-pages/static/js/main.e92ffb5e.chunk.js.map",
   "runtime~main.js": "/texas-bbq-pages/static/js/runtime~main.575379a9.js",
   "runtime~main.js.map": "/texas-bbq-pages/static/js/runtime~main.575379a9.js.map",
-  "static/js/2.bd30f42b.chunk.js": "/texas-bbq-pages/static/js/2.bd30f42b.chunk.js",
-  "static/js/2.bd30f42b.chunk.js.map": "/texas-bbq-pages/static/js/2.bd30f42b.chunk.js.map",
+  "static/js/2.9ed833b9.chunk.js": "/texas-bbq-pages/static/js/2.9ed833b9.chunk.js",
+  "static/js/2.9ed833b9.chunk.js.map": "/texas-bbq-pages/static/js/2.9ed833b9.chunk.js.map",
   "index.html": "/texas-bbq-pages/index.html",
-  "precache-manifest.1fc9828428d7be86a4e03e00d9b8a6a3.js": "/texas-bbq-pages/precache-manifest.1fc9828428d7be86a4e03e00d9b8a6a3.js",
-  "service-worker.js": "/texas-bbq-pages/service-worker.js"
+  "precache-manifest.378cad615c37d83b1b6f86e86923df27.js": "/texas-bbq-pages/precache-manifest.378cad615c37d83b1b6f86e86923df27.js",
+  "service-worker.js": "/texas-bbq-pages/service-worker.js",
+  "static/css/main.5cf72084.chunk.css.map": "/texas-bbq-pages/static/css/main.5cf72084.chunk.css.map",
+  "static/media/Mr-Texas-Smokehouse.png": "/texas-bbq-pages/static/media/Mr-Texas-Smokehouse.bbe30e94.png",
+  "static/media/Home.css": "/texas-bbq-pages/static/media/bundle-one.931e7fa6.png",
+  "static/media/bbqredbeans.png": "/texas-bbq-pages/static/media/bbqredbeans.bd011350.png",
+  "static/media/bold-beef.png": "/texas-bbq-pages/static/media/bold-beef.550336b0.png",
+  "static/media/bundle-two.png": "/texas-bbq-pages/static/media/bundle-two.04eed90f.png",
+  "static/media/royal-pork.png": "/texas-bbq-pages/static/media/royal-pork.8803c6b4.png",
+  "static/media/savory-poultry.png": "/texas-bbq-pages/static/media/savory-poultry.a321a379.png"
 }
