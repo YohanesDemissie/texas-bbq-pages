@@ -1,14 +1,15 @@
 import React from 'react';
 import Home from './Components/Home';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 
 function App() {
+  console.log('AM I RENDERED')
   return (
-    <Router>
+
       <div>
         <Route exact path="/" component={Home} />
       </div>
-    </Router>
+
   );
 }
 
