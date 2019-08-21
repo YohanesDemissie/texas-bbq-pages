@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css?family=Smokum&display=swap');
+
+.blue-background {
+  background-color: white;
+  color: black;
+}
+
+.home-container {
+  justify-content: center;
+}
+
+.title {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Smokum';
+}
+
+.home-hr {
+  border-color: blue;
+  width: 600px;
+  margin-top: 25px;
+}
+
+.home-text {
+  font-size: 50px;
+  text-align: center;
+  margin: 0 15% 0 15%;
+  line-height: 90px;
+}
+
+.products-shortcut {
+  padding-top: 110px;
+  display: flex;
+  justify-content: space-evenly;
+   background-color: white;
+  color: white;
+  /* margin: 50px 15% 50px 15%; */
+  width: 100%;
+  padding-bottom: 60px;
+}
+
+/* .beans {
+  position: relative;
+  display: inline-block;
+}
+
+.beans-img {
+  width: 50%;
+  background-color: rgba(50, 50, 50, 0.5);
+  opacity: 0.1;
+  padding: 5%;
+}
+
+.beans-text {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  transform: translate( -50%, -50% );
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 200%;
+} */
+
+.seasonings {
+  /* background-color: rgba(50, 50, 50, 0.9); */
+  border-radius: 10%;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.seasonings-img {
+  background-image: url(../media/bundle-one.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+  opacity: 0.6;
+}
+
+.seasonings-img:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.beans {
+  /* background-color: rgba(50, 50, 50, 0.9); */
+  border-radius: 10%;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.beans-img {
+  background-image: url(../media/bbqpintobeans.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 300px;
+  opacity: 0.6;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.beans-img:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.apparel {
+  /* background-color: rgba(50, 50, 50, 0.9); */
+  border-radius: 10%;
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.apparel-img {
+  background-image: url(../media/bbq-shirt.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 300px;
+  opacity: 0.6;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.apparel-img:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.product-links {
+  color: black;
+  text-decoration: none;
+}
+

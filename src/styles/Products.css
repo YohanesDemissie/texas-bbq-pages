@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css?family=Smokum&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rancho&display=swap');
+
+.products-title {
+  background-color: white;
+  text-align: center;
+  color: black;
+  font-size: 100px;
+  font-family: 'Smokum';
+  font-weight: 700;
+  letter-spacing: 3px;
+}
+
+.products-container {
+  padding-top: 60px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: white;
+  color: black;
+}
+
+.seasonings-image {
+  width: 150px;
+}
+
+.seasonings-description {
+  font-family: 'Rancho', cursive;
+  font-weight: 700;
+  font-size: 20px;
+  font-size: 40px;
+  width: 150px;
+  text-align: center;
+}
+
+.seasonings-price {
+  font-size: 20px;
+  width: 150px;
+  text-align: center;
+}
+
+.product-image {
+  width: 350px;
+}
+
+.bundle-one-image {
+  width: 500px;
+}
+
+.beans-image {
+  width: 250px;
+}
+
+.beans-description {
+  font-family: 'Rancho', cursive;
+  font-weight: 700;
+  font-size: 20px;
+  font-size: 40px;
+  width: 250px;
+  text-align: center;
+}
+
+.beans-price {
+  font-size: 20px;
+  width: 250px;
+  text-align: center;
+}
+
+.bundle-one-description {
+  font-family: 'Rancho', cursive;
+  text-align: center;
+  width: 250px;
+  font-size: 40px;
+  font-size: 20px;
+}
+
+
+.product-title {
+  font-family: 'Rancho', cursive;
+
+  width: 200px;
+  font-size: 40px;
+  text-align: center;
+  font-weight: 700;
+  margin: 0px auto;
+
+}
+
+.product-price {
+  width: 200px;
+  margin: 0px 150px;
+  /* text-align: center; */
+
+  font-size: 20px;
+}
+
+.bundle-one-price {
+  width: 200px;
+  margin: 0px auto;
+  text-align: center;
+
+  font-size: 20px;
+}
+
+.merchandise-description {
+  font-family: 'Rancho', cursive;
+  font-weight: 700;
+  font-size: 20px;
+  font-size: 40px;
+  width: 150px;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.merchandise-price {
+  width: 200px;
+  margin: 0px auto;
+  text-align: center;
+  font-size: 20px;
+}
+
+.product-break {
+  margin: 20px 40% 20px 40%;
+  border-color: blue;
+}
+
+.bundle-two {
+  width: 380px;
+  /* margin-right: 10%; */
+}
+
+.purchase-button {
+  margin: 0px 40% auto;
+}

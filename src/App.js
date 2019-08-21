@@ -1,12 +1,21 @@
 import React from 'react';
-import Home from './Components/Home';
 import { HashRouter as Router, Route } from 'react-router-dom';
+
+import Home from './components/Home';
+import Products from './components/Products';
+import Locations from './components/Locations';
+import Contact from './components/Contact';
 
 function App() {
   return (
     <Router>
+      <React.Fragment>
         <Route exact path="/" component={Home} />
-      </Router>
+        <Route path="/products" component={Products} />
+        <Route path="/locations" component={Locations} />
+        <Route path="/contact" component={Contact} />
+      </React.Fragment>
+    </Router>
   );
 }
 

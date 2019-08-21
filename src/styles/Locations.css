@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Smokum&display=swap');
+
+.locations-title {
+  background-color: white;
+  color: black;
+  font-size: 60px;
+  text-align: center;
+  padding-bottom: 10px;
+
+  font-family: 'Smokum';
+  font-weight: 700;
+  letter-spacing: 3px;
+  font-size: 100px;
+}
+
+.locations-hr {
+  border-color: blue;
+  width: 600px;
+  margin-bottom: 60px;
+}
+
+.locations-row-one {
+  padding-top: 0px;
+  background-color: white;
+  color: black;
+
+  display: inline-block;
+  display: -moz-inline-box;
+  *display: inline; /* For IE7 */
+  zoom: 1; /* Trigger hasLayout */
+  width: 50%;
+  text-align: center;
+}
+
+/* iframe {
+  display: inline-block;
+  width: 60%;
+} */
+
+.locations {
+  text-align: center;
+  background-color: white;
+  font-size: 30px;
+  margin-bottom: 70px;
+}
+
+.locations-row-two {
+  top: 50%;
+  background-color: white;
+  color: black;
+
+  display: inline-block;
+    display: -moz-inline-box;
+    *display: inline; /* For IE7 */
+    zoom: 1; /* Trigger hasLayout */
+    width: 50%;
+    text-align: center;
+
+}
+
+.locations-row-three {
+  background-color: white;
+  color: black;
+
+  display: inline-block;
+  display: -moz-inline-box;
+  *display: inline; /* For IE7 */
+  zoom: 1; /* Trigger hasLayout */
+  width: 50%;
+  text-align: center;
+}
+
+.last-location {
+  background-color: white;
+  text-align: center;
+  color: black;
+  padding-bottom: 40px;
+  font-size: 30px;
+}
