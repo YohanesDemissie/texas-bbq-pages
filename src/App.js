@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <Router history={history} basename={process.env.PUBLIC_URL}>
+    <Router>
         <Route exact path="/" component={Home} />
       </Router>
 
